@@ -3,26 +3,26 @@
   "Files": [
     {
       "_comment": "主模组 DLL。",
-      "Path": "OpenTogetherX.dll",
-      "Md5": "TODO_FILL_OPEN_TOGETHER_X_DLL_MD5",
+      "Path": "TogetherNext.dll",
+      "Md5": "81b5ee4eb412fe700bd0d27183925072",
       "Required": true
     },
     {
       "_comment": "主模组资源文件。",
       "Path": "assets/opentogetheroscenes.asset",
-      "Md5": "TODO_FILL_ASSET_MD5",
+      "Md5": "dee62ca53e9daae5c342f3450bc56f68",
       "Required": true
     },
     {
       "_comment": "7z 解压程序。",
       "Path": "7z/7z.exe",
-      "Md5": "TODO_FILL_7Z_EXE_MD5",
+      "Md5": "0722caf901595d4bae47feb0e6e8b139",
       "Required": true
     },
     {
       "_comment": "7z 动态库。",
       "Path": "7z/7z.dll",
-      "Md5": "TODO_FILL_7Z_DLL_MD5",
+      "Md5": "fcff1973db63cd9b11ef75478f921c1e",
       "Required": true
     }
   ]
