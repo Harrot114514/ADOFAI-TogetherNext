@@ -1,0 +1,11 @@
+{
+  "_comment": "URL 填写位置：本文件上传到 GitHub 后，把 raw URL 填到 BootstrapConstants.BootstrapIntegrityUrl。",
+  "ManifestVersion": "1",
+  "Files": [
+    {
+      "Path": "TogetherNextBootstrap.dll",
+      "Md5": "TODO_FILL_BOOTSTRAP_DLL_MD5",
+      "Required": true
+    }
+  ]
+}

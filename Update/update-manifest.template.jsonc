@@ -1,0 +1,14 @@
+{
+  "_comment": "URL 填写位置：本文件上传到 GitHub 后，把 raw URL 填到 BootstrapConstants.UpdateManifestUrl。",
+  "ManifestVersion": "1",
+  "Packages": [
+    {
+      "GameVersion": "TODO_FILL_GAME_VERSION",
+      "Version": "TODO_FILL_MAIN_MOD_VERSION",
+      "_comment": "URL 填写位置：填写主模组压缩包 raw/release 下载 URL。",
+      "DownloadUrl": "TODO_FILL_PACKAGE_DOWNLOAD_URL",
+      "Md5": "TODO_FILL_PACKAGE_MD5",
+      "FileName": "OpenTogetherX-TODO_VERSION.zip"
+    }
+  ]
+}
